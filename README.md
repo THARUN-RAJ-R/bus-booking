@@ -94,14 +94,7 @@ bus_booking/
 
 ---
 
-## 🙋‍♂️ Author
 
-**Tharun Raj R**
-
-* 🌐 [GitHub](https://github.com/THARUN-RAJ-R)
-* 🎓 B.Tech CSE (IoT) Student at VIT
-
----
 
 ## 📜 License
 
